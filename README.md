@@ -2,8 +2,8 @@
 ## qustions and answers game
 
 ##With:
-1.TML
-2.SS
+1.HTML
+2.CSS
 3.Vanilla java Script
 
 ### verey scaleble
