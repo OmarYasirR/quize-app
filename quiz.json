@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What does GHz stand for?",
+        "correct_answer": "Gigahertz",
+        "incorrect_answers": [
+            "Gigahotz",
+            "Gigahetz",
+            "Gigahatz"
+        ]
+    },
+    {
+        "question": "When was the programming language &quot;C#&quot; released?",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+            "1998",
+            "1999",
+            "2001"
+        ]
+    },
+    {
+        "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+        "correct_answer": "Objective-C",
+        "incorrect_answers": [
+            "C#",
+            "Ruby",
+            "C++"
+        ]
+    },
+    {
+        "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+        "correct_answer": "Final",
+        "incorrect_answers": [
+            "Static",
+            "Private",
+            "Public"
+        ]
+    },
+    {
+        "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+        "correct_answer": "Binary",
+        "incorrect_answers": [
+            "JavaScript",
+            "C++",
+            "Python"
+        ]
+    },
+    {
+        "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+        "correct_answer": "Santa Clara",
+        "incorrect_answers": [
+            "Palo Alto",
+            "Cupertino",
+            "Mountain View"
+        ]
+    },
+    {
+        "question": "What was the name given to Android 4.3?",
+        "correct_answer": "Jelly Bean",
+        "incorrect_answers": [
+            "Lollipop",
+            "Nutella",
+            "Froyo"
+        ]
+    },
+    {
+        "question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+        "correct_answer": "Clipper Chip",
+        "incorrect_answers": [
+            "Enigma Machine",
+            "Skipjack",
+            "Nautilus"
+        ]
+    },
+    {
+        "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": [
+            "C#",
+            "Python",
+            "PHP"
+        ]
+    },
+    {
+        "question": "What is the name of the default theme that is installed with Windows XP?",
+        "correct_answer": "Luna",
+        "incorrect_answers": [
+            "Neptune",
+            "Whistler",
+            "Bliss"
+        ]
+    },
+    {
+        "question": "In the programming language &quot;Python&quot;, which of these statements would display the string &quot;Hello World&quot; correctly?",
+        "correct_answer": "print(&quot;Hello World&quot;)",
+        "incorrect_answers": [
+            "console.log(&quot;Hello World&quot;)",
+            "echo &quot;Hello World&quot;",
+            "printf(&quot;Hello World&quot;)"
+        ]
+    },
+    {
+        "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+        "correct_answer": "&lt;marquee&gt;&lt;\/marquee&gt;",
+        "incorrect_answers": [
+            "&lt;scroll&gt;&lt;\/scroll&gt;",
+            "&lt;move&gt;&lt;\/move&gt;",
+            "&lt;slide&gt;&lt;\/slide&gt;"
+        ]
+    },
+    {
+        "question": "Which of these programming languages is a low-level language?",
+        "correct_answer": "Assembly",
+        "incorrect_answers": [
+            "Python",
+            "C#",
+            "Pascal"
+        ]
+    },
+    {
+        "question": "In computing terms, typically what does CLI stand for?",
+        "correct_answer": "Command Line Interface",
+        "incorrect_answers": [
+            "Common Language Input",
+            "Control Line Interface",
+            "Common Language Interface"
+        ]
+    },
+    {
+        "question": "What internet protocol was documented in RFC 1459?",
+        "correct_answer": "IRC",
+        "incorrect_answers": [
+            "HTTP",
+            "HTTPS",
+            "FTP"
+        ]
+    },
+    {
+        "question": "Which of these people was NOT a founder of Apple Inc?",
+        "correct_answer": "Jonathan Ive",
+        "incorrect_answers": [
+            "Steve Jobs",
+            "Ronald Wayne",
+            "Steve Wozniak"
+        ]
+    },
+    {
+        "question": "Approximately how many Apple I personal computers were created?",
+        "correct_answer": "200",
+        "incorrect_answers": [
+            "100",
+            "500",
+            "1000"
+        ]
+    },
+    {
+        "question": "How long is an IPv6 address?",
+        "correct_answer": "128 bits",
+        "incorrect_answers": [
+            "32 bits",
+            "64 bits",
+            "128 bytes"
+        ]
+    },
+    {
+        "question": "In computing, what does MIDI stand for?",
+        "correct_answer": "Musical Instrument Digital Interface",
+        "incorrect_answers": [
+            "Musical Interface of Digital Instruments",
+            "Modular Interface of Digital Instruments",
+            "Musical Instrument Data Interface"
+        ]
+    },
+    {
+        "question": "How many bytes are in a single Kibibyte?",
+        "correct_answer": "1024",
+        "incorrect_answers": [
+            "2400",
+            "1000",
+            "1240"
+        ]
+    }
+]

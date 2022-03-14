@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="shortcut icon" href="images/—Pngtree—letter q logo png vector_6336736.png" type="image/x-icon">
+        <link rel="stylesheet" href="quiz.css" />
+        <link rel="stylesheet" href="all.min.css" />
+        <title>quiz app</title>
+    </head>
+    <body>
+        <div class="app-container">
+            <div class="side-bar">
+                <span class="handler"></span>
+                <i class="fa-solid fa-xmark"></i>
+                <!-- <h3>players info</h3> -->
+                <div class="side-bar-cont"></div>
+            </div>
+            <div class="over-leay">
+                <div class="player-info">
+                    <h3>enter your name</h3>
+                    <input type="text" />
+                    <button>go</button>
+                </div>
+            </div>
+            <h2>quiz<span> app</span></h2>
+            <div class="count-dawon">
+                <span class="minutes">00</span> :
+                <span class="seconds">00</span>
+            </div>
+            <div class="header">
+                <div class="answers-count">
+                    <span class="correct-answer">0</span>/
+                    <span class="incrAnsCount">6</span>
+                </div>
+                <div class="player">name : <span></span></div>
+            </div>
+            <div class="question-cont">
+                <span class="no">0</span>
+                <div class="question">question</div>
+                <div class="answers">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <audio
+                preload="auto"
+                class="click"
+                src="sounds/mixkit-arcade-game-jump-coin-216.wav"
+            ></audio>
+            <audio
+                preload="auto"
+                class="success"
+                src="sounds/success-sound-effect.mp3"
+            ></audio>
+            <audio
+                preload="auto"
+                class="Wrong"
+                src="sounds/Wrong Clakson Sound Effect.mp3"
+
+            ></audio>
+            <audio src="sounds/mixkit-sad-game-over-trombone-471.wav" class="gm-over" preload="auto"></audio>
+            <audio src="sounds/Tada-sound.mp3" preload="auto" class="tada"></audio>
+        </div>
+        <script src="quiz.js"></script>
+    </body>
+</html>
