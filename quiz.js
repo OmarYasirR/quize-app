@@ -234,7 +234,7 @@ startBtn.onclick = function () {
 };
 
 // ---Side bar---
-document.querySelector(".side-bar i").onclick = function () {
+document.querySelector(".side-bar .i").onclick = function () {
     sideBar.classList.remove("translate");
 };
 

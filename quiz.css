@@ -26,17 +26,15 @@
     transition: 0.5s;
     padding-bottom: 20px;
 }
-.app-container .side-bar i{
+.app-container .side-bar .i{
     position: absolute;
     right: 22px;
-    top: 10px;
     font-size: 35px;
-    transition: 0.4s;
+    font-weight: bold;
     cursor: pointer;
     z-index: 3;
 }
-.app-container .side-bar i:hover{
-    transform: rotate(180deg);
+.app-container .side-bar .i:hover{
     color: #11698e;
 }
 
@@ -75,7 +73,7 @@ background-color: #eee;
 
 .app-container .side-bar .detls {
     width: 100%;
-    margin-top: 40px;
+    margin-top: 45px;
     padding-bottom: 10px;
     padding-left: 10%;
     border-bottom: 1px solid #11698e;
