@@ -47,8 +47,7 @@ Try it live: [Quiz App Demo](https://quize-r74gtn0y8-omaryasirrs-projects.vercel
 2. Users write there name
 3. Users select an answer from multiple choices.
 4. The app provides immediate feedback and updates the score.
-5. If user finesh all before
-6. At the end of the quiz, the final score is displayed.
+5. At the end of the quiz, the final score is displayed.
 
 ---
 
